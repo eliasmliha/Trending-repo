@@ -2,4 +2,8 @@
     <string name="app_name">Trending Repo</string>
     <string name="title_settings">Settings</string>
     <string name="title_Trending">Trending</string>
+    <string name="number_of_stars">[number of stars]</string>
+    <string name="repo_owner_name">[repo owner name]</string>
+    <string name="repo_description">[Repo Description]</string>
+    <string name="repo_name">[Repo name]</string>
 </resources>
